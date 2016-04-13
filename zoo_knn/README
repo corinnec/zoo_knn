@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+# ${1:KNN algorithm implementation}
+Here we use the knn algorithm on two datasets: Wisconsin Breat Cancer diagnosis and 
+animal classification data from the UCI machine learning repository.
+## Usage
+Download the zip (or individual files if so desired). File paths in code are relative.
+]]></content>
+  <tabTrigger>readme</tabTrigger>
+</snippet>
